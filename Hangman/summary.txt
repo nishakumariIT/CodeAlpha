@@ -1,0 +1,22 @@
+Project Description:
+
+Developed a interactive Hangman game using Python and Tkinter library. The game allows users to input their name and play the classic guessing game. The objective is to guess the secret word by inputting individual letters. After each guess, the game displays the current state of the word, indicating correct and incorrect guesses. The game ends when the user correctly guesses the word or runs out of attempts.
+
+Key Features:
+
+User-friendly interface with input fields and buttons
+Dynamic display of the secret word's state after each guess
+Correct and incorrect guess tracking
+Game over conditions: winning (correctly guessing the word) or losing (running out of attempts)
+Technical Skills:
+
+Python programming language
+Tkinter library for GUI development
+Object-Oriented Programming (OOP) concepts
+Example Use Case:
+
+Run the game by executing the Python script.
+Input your name and click "Submit".
+Guess a letter and click "Guess".
+The game displays the current state of the secret word.
+Continue guessing until you correctly guess the word or run out of attempts.
